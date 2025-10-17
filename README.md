@@ -1,4 +1,4 @@
-![1756053125566](https://github.com/user-attachments/assets/ce910d32-7246-4650-9b93-ae7deae284fa)📊 chartcloud
+📊 chartcloud
 Upload Excel files, generate charts, view files and visualizations, and share them — publicly or privately. Sign up and login with email and social accounts (Github and Google). Admin dashboard for "admin" role logins
 
 + includes language selection across all UIs and email OTP verification system for non-social logins
